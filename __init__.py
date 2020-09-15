@@ -5,7 +5,7 @@ bl_info = {
     "description": "helps adjusting edge loops",
     "version": (0, 5),
     "location": "Mesh > Edge > Set Edge Flow",
-    "blender": (2, 80, 0),
+    "blender": (2, 90, 0),
     "tracker_url": "https://github.com/BenjaminSauder/EdgeFlow/issues",
     "wiki_url": "https://github.com/BenjaminSauder/EdgeFlow" ,
 }
